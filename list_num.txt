@@ -1,0 +1,1 @@
+["timestamp", "hour", "day", "distance", "surge_multiplier", "latitude", "longitude", "apparentTemperature", "precipIntensity", "humidity", "windSpeed", "windBearing", "cloudCover", "uvIndex"]
